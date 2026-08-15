@@ -16,7 +16,7 @@ const GEARBINS_CONFIG = {
   categoryTree: {
     "Clothing": ["Cold Weather", "Hot Weather"],
     "Gear": ["Hiking", "Water", "Camping"],
-    "Babystuff": ["Memorabilia", "Toys", "Clothes"]
+    "Babystuff": ["Memorabilia", "Toys", "Clothes"],
     "Kidstuff": ["Books", "Toys", "Clothes", "Games", "Plush", "Nursery"]
   }
 };
