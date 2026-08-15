@@ -14,7 +14,7 @@ const GEARBINS_CONFIG = {
   // Fixed category → subcategory taxonomy. Edit this list to add/rename/remove
   // categories — every page that uses categories reads from here.
   categoryTree: {
-    "Clothing": ["Cold Weather", "Hot Weather"],
+    "Clothing": ["Cold Weather", "Hot Weather", "Water",  "Misc."],
     "Gear": ["Hiking", "Water", "Camping"],
     "Babystuff": ["Memorabilia", "Toys", "Clothes"],
     "Kidstuff": ["Books", "Toys", "Clothes", "Games", "Plush", "Nursery"]
